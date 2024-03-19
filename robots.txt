@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.bettysuravech.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/gori77.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/viral4d.html/sitemap.xml
+Sitemap: https://ftp.bettysuravech.com/playground88.html/sitemap.xml
